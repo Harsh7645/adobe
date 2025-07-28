@@ -9,7 +9,7 @@ This solution uses a multi-heuristic approach to detect document structure:
 3. **Pattern Matching**: Recognizes common heading patterns (numbered sections, keywords)
 4. **Context Awareness**: Classifies heading levels based on document-wide patterns
 
-## Key Features
+## Key Featureswinget install Typora.Typora
 
 - **Robust Heading Detection**: Combines multiple signals rather than relying on font size alone
 - **Title Extraction**: Intelligently identifies document title from first page

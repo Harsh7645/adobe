@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T23:55:25.573143"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "importance_rank": 1,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Hotels",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 5,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "History Perpignan, located near the Spanish border, has a unique blend of French and Catalan influences. The city was once the capital of the Kingdom of Majorca and has a rich history reflected in its architecture and culture. Perpignan's strategic location has made it a crossroads of cultures and traditions. Key Attractions • Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the surrounding countryside. • Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this Gothic cathedral was built in the 14th century and features a beautiful cloister and bell tower. • Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of Perpignan. It now houses the Casa Pairal Museum, which showcases the history and culture of the region. • Loge de Mer: This historic building, originally a maritime trading exchange, dates back to the 14th century. It is located in the heart of the old town and is a testament to Perpignan's rich mercantile history. Cultural Fusion • Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals, cuisine, and traditions. • Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or exploring the Pyrenees mountains. Cultural Highlights Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan traditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in various genres. Perpignan's cuisine is also notable, with local specialties such as cargolade (grilled snails) and wines from the Roussillon region.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "• Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of activities for children and adults, including sports, entertainment, and kids' clubs. The beautiful setting and all-inclusive amenities make it a hassle-free vacation spot. • Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the beach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The beachfront location and family-oriented amenities make it a great choice for a seaside vacation. • Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering spacious rooms, a kids' club, and a variety of outdoor activities. The picturesque setting and family-friendly facilities make it a unique and enjoyable stay. • Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "The South of France is a diverse and enchanting region that oﬀers a wide range of activities and experiences for travelers. Whether you're exploring the stunning coastline, immersing yourself in the rich cultural heritage, or indulging in the culinary delights, there is something for everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of France promises an unforgettable journey filled with memories that will last a lifetime. Use this guide to plan your trip and make the most of everything this beautiful region has to oﬀer.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Pack a beach umbrella or tent for shade and a cooler for drinks and snacks. Consider bringing a waterproof phone case to protect your device.",
+      "page_number": 7
+    }
+  ]
+}
