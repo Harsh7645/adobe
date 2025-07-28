@@ -2,28 +2,38 @@
   "title": "Application form for grant of LTC advance",
   "outline": [
     {
+      "level": "H0",
+      "text": "DUMMY_HEADING_TEST",
+      "page": 0
+    },
+    {
       "level": "H1",
       "text": "Application form for grant of LTC advance",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "10.",
+      "text": "Name of the Government Servant",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "S.No",
+      "text": "Date of entering the Central Government",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "11.",
+      "text": "Service",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "Date",
+      "text": "Whether permanent or temporary",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Home Town as recorded in the Service Book",
       "page": 1
     }
   ]
